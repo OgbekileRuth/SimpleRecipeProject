@@ -1,17 +1,10 @@
 body{
-    background-color:rgb(5, 3, 1);
-    text-align: left;
-    font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
-    margin-top: 10% 0px;
-    color:white;
+    background-color:navajowhite;
 }
 
 h1 {
-    text-align: left;
-    margin-right: 20px;
-    text-decoration: underline;
-    text-decoration-color: #111;
+    color:navy;
+    margin-left: 20px;
 }
 
 .ulist {
@@ -29,7 +22,7 @@ h1 {
 .innerlist a {
     display: block;
     color:white;
-    text-align: left;
+    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -47,7 +40,7 @@ h1 {
 }
 
 .image-container img{
-    width: 50%;
+    width: 100%;
     height: auto;
     margin-bottom:10px;
 }
@@ -69,7 +62,7 @@ border: 1px solid #777;
 }
 
 div.gallery img {
-    width: 150px;
+    width: 300px;
     height: 100px;
 }
 div.gallery img{
